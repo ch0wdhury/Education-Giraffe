@@ -360,6 +360,38 @@
 		margin-bottom: 70px;
 	}
 	/* Gallery End */
+	/* Profiles Section Start */
+	.profile {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+	.twitter_content h6 {
+		width: 70%;
+		line-height: 2.2;
+	}
+	.profile_contents img {
+		width: 120%;
+	}
+	.profile_contents h1 {
+		font-size: 20px;
+	}
+	.profile_contents hr {
+		margin: 5px auto;
+	}
+	.profile_contents h6 {
+		font-size: 14px;
+	}
+	.profile_contents p {
+		font-size: 12px;
+		line-height: 1.2;
+	}
+	.profile_contents ul li a {
+		font-size: 18px;
+	}
+	.profile_contents h3 {
+		font-size: 14px;
+	}
+	/* Profiles Section End */
 }
 
 /* Large devices (desktops, 992px and up) */

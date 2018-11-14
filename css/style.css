@@ -199,3 +199,46 @@ header {
 	margin-bottom: 100px;
 }
 /* Gallery End */
+/* Profiles Section Start */
+.profile {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.twitter_content p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	line-height: 2.5;
+	font-size: 14px;
+	color: #1EC0FF;
+}
+.twitter_content h6 {
+	width: 50%;
+	margin: 0 auto;
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	line-height: 2.5;
+}
+.profile_contents img {
+	border-radius: 20px;
+}
+.profile_contents h1 {
+	font-size: 24px;
+	font-weight: 700;
+}
+.profile_contents h6 {
+
+}
+.profile_contents p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+}
+.profile_contents ul li a {
+	font-size: 20px;
+}
+.profile_contents h3 {
+	font-size: 18px;
+	font-weight: 700;
+	text-decoration: underline;
+}
+/* Profiles Section End */
