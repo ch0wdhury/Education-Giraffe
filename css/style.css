@@ -242,3 +242,29 @@ header {
 	text-decoration: underline;
 }
 /* Profiles Section End */
+/* Event Count Section Start */
+.counts {
+	background-color: #6E6E6E;
+}
+.count_wrapper {
+	position: relative;
+	color: #fff;
+	margin-bottom: 20px;
+}
+.count_wrapper h1 {
+	font-size: 60px;
+	font-weight: 700;
+}
+.count_wrapper img {
+	position: absolute;
+	bottom: -10px;
+	left: 40px;
+	margin: 0 auto;
+}
+.count_content h2 {
+	color: #fff;
+	font-size: 24px;
+	font-weight: 700;
+	margin-bottom: 100px;
+}
+/* Event Count Section End */
