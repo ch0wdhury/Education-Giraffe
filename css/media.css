@@ -501,9 +501,10 @@
 		font-size: 45px;
 	}
 	.count_wrapper img {
+		width: 80%;
 		position: absolute;
-		bottom: -10px;
-		left: 0;
+		bottom: -5px;
+		left: 15px;
 		margin: 0 auto;
 	}
 	.count_content h2 {
