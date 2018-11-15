@@ -268,3 +268,66 @@ header {
 	margin-bottom: 100px;
 }
 /* Count Section End */
+/* Event Section Start */
+.event {
+	margin-bottom: 100px;
+}
+.timeline_wrap {
+	margin-top: 50px;
+}
+.date_stamp {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: relative;
+}
+.date_stamp p {
+	color: #fff;
+	line-height: 0.5;
+	width: 50%;
+	text-align: center;
+	font-size: 48px;
+	font-weight: 700;
+	position: absolute;
+	top: 25px;
+	left: 25px;
+	margin: 0 auto;
+}
+.month_stamp {
+	font-size: 18px;
+}
+.reg_stamp {
+	font-size: 14px;
+}
+.event_title {
+	font-weight: 700;
+	font-size: 24px;
+}
+.timeline_text p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+.news_content img {
+	width: 105%;
+	border-radius: 20px;
+}
+.news_content hr {
+	border: 2px dashed;
+}
+.news_content i {
+	font-size: 16px;
+	font-weight: 500;
+}
+.news_content h6 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+}
+.news_content p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+}
+
+/* Event Section End */
