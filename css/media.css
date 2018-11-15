@@ -300,8 +300,8 @@
 	/* Gallery End */
 	/* Profiles Section Start */
 	.profile {
-		margin-top: 40px;
-		margin-bottom: 40px;
+		margin-top: 50px;
+		margin-bottom: 50px;
 	}
 	.twitter_content p {
 		line-height: 2.5;
@@ -336,13 +336,12 @@
 	}
 	.count_content h2 {
 		font-size: 18px;
-		margin-bottom: 40px;
+		margin-bottom: 50px;
 	}
 	/* Event Count Section End */
 
 
 }
-
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
@@ -377,7 +376,7 @@
 	/* Banner End */
 	/* About Section Start */
 	.about {
-		margin-bottom: 100px;
+		margin-bottom: 50px;
 	}
 	.common_texts {
 		margin-top: 50px;
@@ -452,13 +451,13 @@
 	/* Offering End */
 	/* Gallery Start */
 	.top_margin {
-		margin-top: 70px;
+		margin-top: 50px;
 	}
 	.gallery_content img {
 		width: 100%;
 	}
 	.custom_btn {
-		margin-bottom: 70px;
+		margin-bottom: 50px;
 	}
 	/* Gallery End */
 	/* Profiles Section Start */
@@ -509,7 +508,7 @@
 	}
 	.count_content h2 {
 		font-size: 18px;
-		margin-bottom: 70px;
+		margin-bottom: 50px;
 	}
 	/* Event Count Section End */
 }

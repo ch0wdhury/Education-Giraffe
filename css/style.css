@@ -79,7 +79,7 @@ header {
 .common_texts hr {
 	width: 220px;
 	border: 3px dashed white;
-	margin: 30px auto;
+	margin: 40px auto;
 }
 .about_texts {
 	margin-top: 100px;
@@ -242,7 +242,7 @@ header {
 	text-decoration: underline;
 }
 /* Profiles Section End */
-/* Event Count Section Start */
+/* Count Section Start */
 .counts {
 	background-color: #6E6E6E;
 }
@@ -267,4 +267,4 @@ header {
 	font-weight: 700;
 	margin-bottom: 100px;
 }
-/* Event Count Section End */
+/* Count Section End */
