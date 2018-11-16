@@ -715,7 +715,6 @@
 	}
 	.contact_content h1 {
 		font-size: 20px;
-		font-weight: 700;
 		margin-top: 240px;
 	}
 	.contact_content hr {
@@ -778,7 +777,7 @@
 	/* Banner End */
 	/* About Section Start */
 	.about {
-		margin-bottom: 100px;
+		margin-bottom: 80px;
 	}
 	.common_texts {
 		margin-top: 80px;
@@ -806,7 +805,7 @@
 	/* Service Section Start */
 	.service_content {
 		margin-top: 50px;
-		margin-bottom: 50px;
+		margin-bottom: 80px;
 	}
 	.service_content img {
 		width: 40%;
@@ -838,18 +837,27 @@
 	.custom_cfooter {
 		font-size: 14px;
 	}
+	.plus_icon {
+		margin-bottom: 80px;
+	}
 	/* Offering End */
 	/* Gallery Start */
 	.top_margin {
-		margin-top: 90px;
+		margin-top: 80px;
 	}
 	.gallery_content img {
 		width: 100%;
 	}
 	.custom_btn {
-		margin-bottom: 90px;
+		margin-bottom: 80px;
 	}
 	/* Gallery End */
+	/* Profiles Section Start */
+	.profile {
+		margin-top: 80px;
+		margin-bottom: 80px;
+	}
+	/* Profiles Section End */
 	/* Count Section Start */
 	.count_wrapper {
 		position: relative;
@@ -863,7 +871,7 @@
 	/* Count Section End */
 	/* Event Section Start */
 	.event {
-		margin-bottom: 90px;
+		margin-bottom: 80px;
 	}
 	.date_stamp {
 		width: 80px;
@@ -894,7 +902,7 @@
 	/* Contact Section Start */
 	.contact_content {
 		margin-top: 250px;
-		margin-bottom: 100px;
+		margin-bottom: 80px;
 	}
 	.contact_content h1 {
 		font-size: 22px;
@@ -911,12 +919,13 @@
 		margin: 25px auto;
 	}
 	.custom_flist a {
-		font-size: 16px;
+		font-size: 14px;
 	}
 	.custom_flist li:last-child a {
 		border: none;
 	}
 	footer p {
+		font-size: 14px;
 		margin: 25px auto;
 	}
 	/* Footer End */
