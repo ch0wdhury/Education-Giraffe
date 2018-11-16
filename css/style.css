@@ -329,5 +329,61 @@ header {
 	font-weight: 300;
 	font-size: 14px;
 }
-
 /* Event Section End */
+/* Contact Section Start */
+.contact {
+	background-image: url(../images/bottom_bg.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+.contact_content {
+	margin-top: 250px;
+	margin-bottom: 100px;
+}
+.contact_content img {
+	margin-bottom: 30px;
+}
+.contact_content h1 {
+	font-size: 24px;
+	font-weight: 700;
+	margin-top: 300px;
+}
+.contact_content hr {
+	width: 70%;
+	border: 2px dashed;
+	margin-bottom: 30px;
+}
+.contact_content p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+}
+.insta_img img {
+	width: 100%;
+}
+/* Contact Section End */
+/* Footer Start */
+footer {
+	background-color: #FFD338;
+}
+.custom_flist {
+	margin: 30px auto;
+}
+.custom_flist a {
+	font-size: 18px;
+	font-weight: 700;
+	color: #FFF;
+	padding-right: 10px;
+	border-right: 2px solid #fff;
+}
+.custom_flist li:last-child a {
+	border: none;
+}
+footer p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	color: #FFF;
+	margin: 30px auto;
+}
+/* Footer End */
