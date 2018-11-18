@@ -32,6 +32,9 @@ header {
 .custom_nav .active a {
 	background-color: red;
 }
+.dropleft .custom_dtoggle::before {
+	content: none;
+}
 /* Header End */
 /* Banner Start */
 .banner {
