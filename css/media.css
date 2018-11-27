@@ -80,21 +80,21 @@
 		margin-bottom: 30px;
 	}
 	.card-header {
-		font-size: 8px;
-	}
-	.card-header i {
-		font-size: 12px;
-	}
-	.custom_title {
 		font-size: 14px;
 	}
+	.card-header i {
+		font-size: 16px;
+	}
+	.custom_title {
+		font-size: 24px;
+	}
 	.custom_ctext {
-		width: 110%;
-		font-size: 10px;
+		width: 100%;
+		font-size: 16px;
 		min-height: 30px;
 	}
 	.custom_cfooter {
-		font-size: 8px;
+		font-size: 14px;
 	}
 	.plus_icon {
 		height: 40px;
@@ -133,26 +133,29 @@
 		font-size: 12px;
 		line-height: 2;
 	}
+	.profile_contents {
+		text-align: center;
+	}
 	.profile_contents img {
 		width: 100%;
 		margin-bottom: 20px;
 	}
 	.profile_contents h1 {
-		font-size: 20px;
+		font-size: 24px;
 	}
 	.profile_contents h6 {
-		font-size: 14px;
+		font-size: 16px;
 	}
 	.profile_contents hr {
 		margin: 0;
 	}
 	.profile_contents p {
-		font-size: 10px;
+		font-size: 16px;
 		margin: 0;
 	}
 	.profile_contents ul li a {
-		font-size: 14px;
-		margin: 0;
+		font-size: 20px;
+		margin: 15px auto;
 	}
 	.profile_contents h3 {
 		display: none;
@@ -207,18 +210,21 @@
 	.timeline_text p {
 		font-size: 12px;
 	}
+	.news_content p {
+		font-size: 10px;
+	}
 	.news_content hr {
 		border: 1px dashed;
 		margin: 5px;
 	}
 	.news_content i {
-		font-size: 14px;
+		font-size: 16px;
 	}
 	.news_content h6 {
-		font-size: 10px;
+		font-size: 14px;
 	}
 	.news_content p {
-		font-size: 10px;
+		font-size: 14px;
 	}
 	/* Event Section End */
 	/* Contact Section Start */
@@ -297,7 +303,7 @@
 		margin-top: 30px;
 	}
 	.common_texts h1 {
-		font-size: 20px;
+		font-size: 24px;
 	}
 	.common_texts hr {
 		width: 100px;
@@ -334,24 +340,24 @@
 	/* Service Section End */
 	/* Offering Start */
 	.custom_card {
-		margin-top: 30px;
-		margin-bottom: 30px;
+		width: 65%;
+		margin: 30px auto;
 	}
 	.card-header {
-		font-size: 12px;
+		font-size: 16px;
 	}
 	.card-header i {
-		font-size: 14px;
+		font-size: 16px;
 	}
 	.custom_title {
-		font-size: 20px;
+		font-size: 24px;
 	}
 	.custom_ctext {
-		font-size: 14px;
+		font-size: 16px;
 		min-height: 60px;
 	}
 	.custom_cfooter {
-		font-size: 14px;
+		font-size: 16px;
 	}
 	.plus_icon {
 		height: 40px;
@@ -444,6 +450,19 @@
 		font-size: 20px;
 	}
 	.timeline_text p {
+		font-size: 14px;
+	}
+	.news_content hr {
+		border: 1px dashed;
+		margin: 5px;
+	}
+	.news_content i {
+		font-size: 16px;
+	}
+	.news_content h6 {
+		font-size: 14px;
+	}
+	.news_content p {
 		font-size: 14px;
 	}
 	/* Event Section End */
